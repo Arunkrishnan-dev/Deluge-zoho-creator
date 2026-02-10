@@ -1,1 +1,1 @@
-This is my first project in deluge using github
+This is my first project in deluge using git & github
